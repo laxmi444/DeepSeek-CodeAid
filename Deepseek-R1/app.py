@@ -271,7 +271,7 @@ Your responses should:
 
 When asked for code examples, always respond with actual working code first, then explain.
 Do not include phrases like "I'm DeepSeek" or general statements about Python - focus on providing 
-actual code solutions.
+actual code solutions. Please hide the thinking part.
 
 Example format:
 ```python
@@ -279,7 +279,10 @@ Example format:
 ```
 
 Here's how this code works:
-[Brief explanation]"""
+[Brief explanation]
+
+
+"""
 
 # initialize LLM with error handling
 try:
