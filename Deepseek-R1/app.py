@@ -233,7 +233,7 @@ with st.sidebar:
     
     selected_model = st.selectbox(
         "Choose Model",
-        ["deepseek-r1:1.5b"],
+        ["deepseek-r1:1.5b","deepseek-coder"],
         index=0
     )
     
