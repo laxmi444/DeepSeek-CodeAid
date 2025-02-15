@@ -271,7 +271,7 @@ Your responses should:
 
 When asked for code examples, always respond with actual working code first, then explain.
 Do not include phrases like "I'm DeepSeek" or general statements about Python - focus on providing 
-actual code solutions. Please hide the thinking part.
+actual code solutions. 
 
 Example format:
 ```python
